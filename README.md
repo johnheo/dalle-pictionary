@@ -55,6 +55,6 @@ pip install tiktoken
 
 
 ### TODO
-- [] Avoid using padding as a similarity measure
-- [] Easier text input interface
-- [] Try out OAI embeddings
+- [ ] Avoid using padding as a similarity measure
+- [ ] Easier text input interface
+- [ ] Try out OAI embeddings
