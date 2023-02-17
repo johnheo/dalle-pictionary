@@ -1,0 +1,6 @@
+# credentials
+config.py
+tiktoken.ipynb
+
+# misc
+__pycache__/
