@@ -52,3 +52,9 @@ The open source version of `tiktoken` can be installed from PyPI:
 ```
 pip install tiktoken
 ```
+
+
+### TODO
+- [] Avoid using padding as a similarity measure
+- [] Easier text input interface
+- [] Try out OAI embeddings
